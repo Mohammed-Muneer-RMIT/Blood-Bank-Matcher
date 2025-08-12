@@ -1,0 +1,5 @@
+id,name,blood_type,rh,urgency,lat,lon,city,units_needed
+1,John,A,+,3,-37.8136,144.9631,Melbourne,2
+2,Mina,O,-,5,-37.7800,144.9500,Parkville,3
+3,Liam,B,+,4,-37.8200,144.9600,Southbank,1
+4,Nina,AB,+,2,-37.7000,145.0000,Preston,2

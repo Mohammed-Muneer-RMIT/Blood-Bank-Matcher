@@ -1,0 +1,1 @@
+Demo rules: ABO/Rh, deferral=56 days, distance via Haversine, urgency via inventory shortage.
